@@ -38,12 +38,7 @@
 
 ![screenshot](https://github.com/VuHuyBui/404-not-found/blob/main/Screenshot.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+This project is created using only HTML and CSS in respond to the challenge created by [devChallenge.io](https://devchallenges.io)
 
 
 ## Features
