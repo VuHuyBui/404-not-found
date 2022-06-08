@@ -38,7 +38,7 @@
 
 ![screenshot](https://github.com/VuHuyBui/404-not-found/blob/main/Screenshot.png)
 
-This project is created using only HTML and CSS in respond to the challenge created by [devChallenge.io](https://devchallenges.io)
+This project is created using only HTML and CSS
 
 
 ## Features
